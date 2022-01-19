@@ -6,3 +6,5 @@ Website version loads a bit faster, but can get blocked.<br>
 Downloadable HTML version loads a bit slower, but cannot get blocked.<br><br>
 I might update this to versions after 2.031 when they come out, but don't count on it.<br>
 Credits go Orteil, visit the official website here: http://orteil.dashnet.org/cookieclicker/
+<br><br><br><br><br><br><br>
+(This is my fist github repo! :D)
