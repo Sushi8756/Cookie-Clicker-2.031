@@ -1,5 +1,5 @@
 # Cookie Clicker Downloadable HTML
-HEY! YOU! There is a new version available!<br>Find it <a target="_blank" href="https://sushi8756.github.io/Cookie-Clicker-2.048/">here</a>!<br>
+HEY! YOU! There is a new version available!<br>Find it <a target="_blank" href="https://github.com/Sushi8756/Cookie-Clicker-2.048/">here</a>!<br><br>
 2.031 source code for educational purposes. <br>
 Download and extract from the "Releases" section.<br>
 Or use the <a target="_blank" href="https://sushi8756.github.io/Cookie-Clicker-2.031/">website</a>!<br><br>
